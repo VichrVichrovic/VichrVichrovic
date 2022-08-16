@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @VichrVichrovic
-- 👀 I’m interested in ...
+- 👀 I’m owner of AceLand.cz
 - 🌱 I’m currently learning Java, HTML, CSS, PHP, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VichrVichrovic/VichrVichrovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
